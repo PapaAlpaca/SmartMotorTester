@@ -1,0 +1,46 @@
+C:\Users\Isaac\source\repos\Phoenix-Examples-Languages\HERO C#\HERO DisplayModule Example\bin\Debug\le\DisplayModule_Example.exe
+C:\Users\Isaac\source\repos\Phoenix-Examples-Languages\HERO C#\HERO DisplayModule Example\bin\Debug\be\DisplayModule_Example.exe
+C:\Users\Isaac\source\repos\Phoenix-Examples-Languages\HERO C#\HERO DisplayModule Example\bin\Debug\le\DisplayModule_Example.pdb
+C:\Users\Isaac\source\repos\Phoenix-Examples-Languages\HERO C#\HERO DisplayModule Example\bin\Debug\be\DisplayModule_Example.pdb
+C:\Users\Isaac\Source\Repos\Phoenix-Examples-Languages\HERO C#\HERO DisplayModule Example\bin\Debug\DisplayModule_Example.exe
+C:\Users\Isaac\Source\Repos\Phoenix-Examples-Languages\HERO C#\HERO DisplayModule Example\bin\Debug\DisplayModule_Example.pdb
+C:\Users\Isaac\source\repos\Phoenix-Examples-Languages\HERO C#\HERO DisplayModule Example\bin\Debug\le\DisplayModule_Example.pe
+C:\Users\Isaac\source\repos\Phoenix-Examples-Languages\HERO C#\HERO DisplayModule Example\bin\Debug\le\DisplayModule_Example.pdbx
+C:\Users\Isaac\source\repos\Phoenix-Examples-Languages\HERO C#\HERO DisplayModule Example\bin\Debug\be\DisplayModule_Example.pe
+C:\Users\Isaac\source\repos\Phoenix-Examples-Languages\HERO C#\HERO DisplayModule Example\bin\Debug\be\DisplayModule_Example.pdbx
+C:\Users\Isaac\Source\Repos\Phoenix-Examples-Languages\HERO C#\HERO DisplayModule Example\obj\Debug\DisplayModule_Example.csproj.AssemblyReference.cache
+C:\Users\Isaac\Source\Repos\Phoenix-Examples-Languages\HERO C#\HERO DisplayModule Example\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Isaac\Source\Repos\Phoenix-Examples-Languages\HERO C#\HERO DisplayModule Example\obj\Debug\DisplayModule_Example.Properties.Resources.resources
+C:\Users\Isaac\Source\Repos\Phoenix-Examples-Languages\HERO C#\HERO DisplayModule Example\obj\Debug\DisplayModule_Example.csproj.GenerateResource.cache
+C:\Users\Isaac\Source\Repos\Phoenix-Examples-Languages\HERO C#\HERO DisplayModule Example\obj\Debug\DisplayModule_Example.Properties.Resources.tinyresources
+C:\Users\Isaac\Source\Repos\Phoenix-Examples-Languages\HERO C#\HERO DisplayModule Example\obj\Debug\TinyResGen.cache
+C:\Users\Isaac\Source\Repos\Phoenix-Examples-Languages\HERO C#\HERO DisplayModule Example\obj\Debug\DisplayModule_Example.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\source\repos\Phoenix-Examples-Languages\HERO C#\HERO DisplayModule Example\obj\Debug\be\DisplayModule_Example.pe
+C:\Users\Isaac\source\repos\Phoenix-Examples-Languages\HERO C#\HERO DisplayModule Example\obj\Debug\be\DisplayModule_Example.pdbx
+C:\Users\Isaac\source\repos\Phoenix-Examples-Languages\HERO C#\HERO DisplayModule Example\obj\Debug\le\DisplayModule_Example.pe
+C:\Users\Isaac\source\repos\Phoenix-Examples-Languages\HERO C#\HERO DisplayModule Example\obj\Debug\le\DisplayModule_Example.pdbx
+C:\Users\Isaac\Source\Repos\Phoenix-Examples-Languages\HERO C#\HERO DisplayModule Example\obj\Debug\DisplayModule_Example.exe
+C:\Users\Isaac\Source\Repos\Phoenix-Examples-Languages\HERO C#\HERO DisplayModule Example\obj\Debug\DisplayModule_Example.pdb
+C:\Users\Isaac\source\repos\HERO DisplayModule Example\bin\Debug\le\DisplayModule_Example.exe
+C:\Users\Isaac\source\repos\HERO DisplayModule Example\bin\Debug\be\DisplayModule_Example.exe
+C:\Users\Isaac\source\repos\HERO DisplayModule Example\bin\Debug\le\DisplayModule_Example.pdb
+C:\Users\Isaac\source\repos\HERO DisplayModule Example\bin\Debug\be\DisplayModule_Example.pdb
+C:\Users\Isaac\source\repos\HERO DisplayModule Example\bin\Debug\DisplayModule_Example.exe
+C:\Users\Isaac\source\repos\HERO DisplayModule Example\bin\Debug\DisplayModule_Example.pdb
+C:\Users\Isaac\source\repos\HERO DisplayModule Example\bin\Debug\le\DisplayModule_Example.pe
+C:\Users\Isaac\source\repos\HERO DisplayModule Example\bin\Debug\le\DisplayModule_Example.pdbx
+C:\Users\Isaac\source\repos\HERO DisplayModule Example\bin\Debug\be\DisplayModule_Example.pe
+C:\Users\Isaac\source\repos\HERO DisplayModule Example\bin\Debug\be\DisplayModule_Example.pdbx
+C:\Users\Isaac\source\repos\HERO DisplayModule Example\obj\Debug\DisplayModule_Example.csproj.AssemblyReference.cache
+C:\Users\Isaac\source\repos\HERO DisplayModule Example\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Isaac\source\repos\HERO DisplayModule Example\obj\Debug\DisplayModule_Example.Properties.Resources.resources
+C:\Users\Isaac\source\repos\HERO DisplayModule Example\obj\Debug\DisplayModule_Example.csproj.GenerateResource.cache
+C:\Users\Isaac\source\repos\HERO DisplayModule Example\obj\Debug\DisplayModule_Example.Properties.Resources.tinyresources
+C:\Users\Isaac\source\repos\HERO DisplayModule Example\obj\Debug\TinyResGen.cache
+C:\Users\Isaac\source\repos\HERO DisplayModule Example\obj\Debug\DisplayModule_Example.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\source\repos\HERO DisplayModule Example\obj\Debug\be\DisplayModule_Example.pe
+C:\Users\Isaac\source\repos\HERO DisplayModule Example\obj\Debug\be\DisplayModule_Example.pdbx
+C:\Users\Isaac\source\repos\HERO DisplayModule Example\obj\Debug\le\DisplayModule_Example.pe
+C:\Users\Isaac\source\repos\HERO DisplayModule Example\obj\Debug\le\DisplayModule_Example.pdbx
+C:\Users\Isaac\source\repos\HERO DisplayModule Example\obj\Debug\DisplayModule_Example.exe
+C:\Users\Isaac\source\repos\HERO DisplayModule Example\obj\Debug\DisplayModule_Example.pdb
