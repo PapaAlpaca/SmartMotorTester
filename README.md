@@ -1,7 +1,3 @@
-# Display Module Example
+# Smart Motor Tester
 
-Example project for using the CTRE Display Module
-
-### Fonts
-Fonts can be found (and contributed to) in the fonts repository.
-https://github.com/CrossTheRoadElec/Phoenix-netmf-fonts
+User Manual/Development Guide can be found here: https://docs.google.com/document/d/1Xakrs-DQpgBO6GTZwqRTK6OL7-AeCKT-AY8LIKiGwPU/edit#heading=h.h6r7lfx3tk90
